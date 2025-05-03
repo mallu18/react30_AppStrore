@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.app-item {
+  width: 100px;
+  margin: 15px;
+  text-align: center;
+}
+
+.app-image {
+  width: 100px;
+  height: auto;
+}
+
+.app-name {
+  font-size: 14px;
+  color: #1e293b;
+  margin-top: 5px;
+}
+
+.AppItem-Container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}

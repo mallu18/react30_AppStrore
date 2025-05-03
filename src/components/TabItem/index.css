@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.tab-button {
+  background-color: transparent;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  color: #7b8794;
+}
+
+.tab-button.active {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
+
+.tabClass {
+  height: 100px;
+  width: 100px;
+}
